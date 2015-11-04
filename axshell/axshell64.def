@@ -1,0 +1,13 @@
+LIBRARY	"axshell64"
+
+EXPORTS
+	GetPluginInfo	PRIVATE
+	GetPluginInfoW	PRIVATE
+	IsSupported		PRIVATE
+	IsSupportedW	PRIVATE
+	GetArchiveInfo	PRIVATE
+	GetArchiveInfoW	PRIVATE
+	GetFileInfo		PRIVATE
+	GetFileInfoW	PRIVATE
+	GetFile			PRIVATE
+	GetFileW		PRIVATE
